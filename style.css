@@ -1,0 +1,27 @@
+body{
+    margin-top: 10rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+h1{
+    color: goldenrod;
+}
+p{
+    margin: 2rem;
+}
+button{
+    background-color: goldenrod;
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    margin: 4px;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
