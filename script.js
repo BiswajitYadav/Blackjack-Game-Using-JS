@@ -1,6 +1,6 @@
 let player = {
-    Name : "Biswajit",
-    Chips : 135
+    Name : "RITIK",
+    Chips : 160
 }
 
 let messageEl = document.getElementById("message-el")
